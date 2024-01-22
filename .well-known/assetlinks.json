@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.thrashed.tracker",
+    "sha256_cert_fingerprints":
+    ["D2:04:6B:80:C6:E9:14:46:FA:51:21:ED:CA:A6:81:81:18:78:D3:69:FD:2A:2D:F6:B9:65:E5:D9:AA:CA:1F:01"]
+  }
+}]
